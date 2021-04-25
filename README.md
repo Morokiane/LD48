@@ -11,5 +11,6 @@ Gameplay:
 Hearts - You start with two hearts and have a maxium of three. Collecting a heart in the dungeon will fill all your hearts back to 3.
 Bones - Collecting three bones will give you one heart. If you have three hearts and three bones you will be unable to collect new bones until you lose a heart. At this point collecting a forth point will convert three bones into a heart
 Keys - You will need keys to access areas through locked doors.
+Coins - Collect coins there are 100 total in the game. 
 
 Have fun and good luck on this little platformer!!
